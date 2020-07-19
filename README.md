@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking for help with **Backend**
 
-- 📝 I regulary write articles on [medium.com/@rajat2502](medium.com/@rajat2502)
+- 📝 I regulary write articles on [medium.com/@rajat2502](https://medium.com/@rajat2502)
 
 - 💬 Ask me about **JavaScript**
 
