@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 React me at **rajatverma5885045@gmail.com**
+- 📫 Reach me at **rajatverma5885045@gmail.com**
 
 - ⚡ Fun fact **- I ❤️ Chai**
 
