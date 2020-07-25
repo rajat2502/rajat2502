@@ -7,6 +7,7 @@
 - 💬 Ask me about **JavaScript**
 - 📫 Reach me at **rajatverma5885045@gmail.com**
 - ⚡ Fun fact **- I ❤️ Chai**
+<img src="https://github-readme-stats.vercel.app/api?username=rajat2502&show_icons=true" alt="rajat2502" />
 
 <p align="center">
 <a href="https://dev.to/rajat2502" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rajat2502" height="20" width="20" /></a>
