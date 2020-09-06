@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rajat Verma</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
+<p>I am <b>Rajat</b>, an aspiring <b>Software Developer</b>, currently building some cool projects. I love to contribute to open source and believe in building with collaboration. If not working, you can find me eating, sleeping or exploring new places with my friends :)</p>
 
-- 🔭 I’m currently working on **a private repository😋**
+- 🔭 I’m currently working on **Webcomb🙈**
 - 🤔 I’m looking for help with **Backend**
 - 📝 I regulary write articles on [medium.com/@rajat2502](https://medium.com/@rajat2502)
-- 💬 Ask me about **JavaScript**
+- 🤝 Looking to **collaborate** on innovative ideas and projects
+- 💬 Ask me about **JavaScript, React and Node**
 - 📫 Reach me at **rajatverma5885045@gmail.com**
 - ⚡ Fun fact **- I ❤️ Chai**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajat2502&show_icons=true" alt="rajat2502" /> </p>
