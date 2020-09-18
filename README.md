@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
-<p>I am <b>Rajat</b>, an aspiring <b>Software Developer</b>, currently building some cool projects. I love to contribute to open source and believe in building with collaboration. I like to read and write about JavaScript and related technologies. </br>
+<p>I am <b>Rajat</b>, a <b>Software Developer</b>, currently building some cool projects. I love to contribute to open source and believe in building with collaboration. I like to read and write about JavaScript and related technologies. </br>
 If not working, you can find me eating, sleeping or exploring new places with my friends :)</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat2502" alt="rajat2502" /> </p>
