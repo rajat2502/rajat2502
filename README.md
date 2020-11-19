@@ -5,8 +5,8 @@ If not working, you can find me eating, sleeping or exploring new places with my
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat2502" alt="rajat2502" /> </p>
 
 - 🔭 I’m currently learning **Data Structures and Algorithms**
-- 🤔 I’m looking for help with **Backend🙏**
-- 📝 I regulary write articles on [medium.com/@rajat2502](https://medium.com/@rajat2502)
+- 🤔 I’m looking for help with **Backend Development**
+- 📝 I regulary write articles on [Medium](https://medium.com/@rajat2502) and [Dev.to](https://dev.to/rajat2502)
 - 🤝 Looking to **collaborate** on innovative ideas and projects
 - 💬 Ask me about **JavaScript, React and Node**
 - 📫 Reach me at **rajatverma5885045@gmail.com**
