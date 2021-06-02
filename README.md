@@ -1,14 +1,14 @@
 <h1 align="center">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
-<p>I am <b>Rajat</b>, a <b>Software Developer</b>, currently building some cool projects. I love to contribute to open source and believe in building with collaboration. I like to read and write about JavaScript and related technologies. </br>
+<p>I am <b>Rajat</b>, a <b>Software Developer</b>,  who is always looking for new projects to work on. I enjoy contributing to open source and believe in collaborative learning. I enjoy reading and writing about JavaScript and related web technologies.</br>
 If not working, you can find me eating, sleeping or exploring new places with my friends :)</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat2502" alt="rajat2502" /> </p>
 
-- 🔭 I’m currently learning **Data Structures and Algorithms**
+- 🔭 I’m currently working on **[StandNote](https://github.com/ajat2502/StandNote)**
 - 🤔 I’m looking for help with **Backend Development**
 - 📝 I regulary write articles on [Medium](https://medium.com/@rajat2502) and [Dev.to](https://dev.to/rajat2502)
-- 🤝 Looking to **collaborate** on innovative ideas and projects
-- 💬 Ask me about **JavaScript, React and Node**
+- 🤝 Looking to **collaborate** on innovative ideas!
+- 💬 Ask me about **JavaScript, ReactJS, Node and Web**
 - 📫 Reach me at **rajatverma5885045@gmail.com**
 - ⚡ Fun fact **- I ❤️ Chai☕**
 
