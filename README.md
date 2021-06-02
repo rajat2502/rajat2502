@@ -14,11 +14,13 @@ If not working, you can find me eating, sleeping or exploring new places with my
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajat2502&show_icons=true" alt="rajat2502" /> </p>
 
-### Connect With Me:
+## Connect With Me:
 
 <a href="mailto:rajatverma5885045@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://twitter.com/rajatverma2502"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rajatverma2502" /></a>&nbsp;
 <a href="https://linkedin.com/in/rajat2502"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rajat2502" /></a>&nbsp;
+<a href="https://codepen.com/rajatverma2502" target="_blank"><img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt=codepen style="margin-bottom: 5px;" />
+</a>&nbsp;
 <a href="https://medium.com/@rajat2502"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="rajat2502"/></a>&nbsp;
 <a href="https://dev.to/rajat2502"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rajat2502" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/10812309/rajat-verma"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="rajat2502" height="28" /></a>
