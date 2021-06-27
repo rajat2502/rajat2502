@@ -5,7 +5,7 @@ If not working, you can find me eating, sleeping or exploring new places with my
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat2502" alt="rajat2502" /> </p>
 
 - 🔭 I’m currently working on **[StandNote](https://github.com/ajat2502/StandNote)**
-- 🤔 I’m looking for help with **Backend Development**
+- 🤔 I’m looking for help with **Backend Development, Frontend Optimizations and Performance**
 - 📝 I regulary write articles on [Medium](https://medium.com/@rajat2502) and [Dev.to](https://dev.to/rajat2502)
 - 🤝 Looking to **collaborate** on innovative ideas!
 - 💬 Ask me about **JavaScript, ReactJS, Node and Web**
