@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 <p>I am <b>Rajat</b>, a <b>Software Developer</b>,  who is always looking for new projects to work on. I enjoy contributing to open source and believe in collaborative learning. I enjoy reading and writing about JavaScript and related web technologies.</br>
-If not working, you can find me eating, sleeping or exploring new places with my friends :)</p>
+If not coding, you can find me eating, sleeping, binge watching or exploring new places with my friends :)</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat2502" alt="rajat2502" /> </p>
 
